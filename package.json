@@ -1,0 +1,9 @@
+{
+  "name": "react-nest-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@nestjs/cli": "^10.1.18"
+  }
+}
