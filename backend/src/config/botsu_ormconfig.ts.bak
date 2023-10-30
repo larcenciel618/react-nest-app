@@ -1,0 +1,23 @@
+// import { User } from 'src/user/entities/user.entity';
+// import { DataSourceOptions } from 'typeorm';
+
+// const ormconfig: DataSourceOptions = {
+//   type: 'mysql',
+//   host: process.env.DB_HOST,
+//   port: 3306,
+//   username: 'test',
+//   password: 'test',
+//   database: 'test',
+//   synchronize: true,
+//   logging: true,
+//   entities: [User],
+//   migrations: ['src/migration/**/*.ts'],
+//   subscribers: ['src/subscriber/**/*.ts'],
+//   cli: {
+//     // entitiesDir: 'src/entity',
+//     migrationsDir: 'src/migration',
+//     // subscribersDir: 'src/subscriber',
+//   },
+// };
+
+// export default ormconfig;
